@@ -12,4 +12,11 @@
 /home/diego/devs/aulasDotnet/CalcularIdade/obj/Debug/net9.0/CalcularIdade.pdb
 /home/diego/devs/aulasDotnet/CalcularIdade/obj/Debug/net9.0/CalcularIdade.genruntimeconfig.cache
 /home/diego/devs/aulasDotnet/CalcularIdade/obj/Debug/net9.0/ref/CalcularIdade.dll
+<<<<<<< HEAD
 /home/diego/devs/aulasDotnet/CalcularIdade/obj/Debug/net9.0/CalcularIdade.sourcelink.json
+=======
+<<<<<<< HEAD
+=======
+/home/diego/devs/aulasDotnet/CalcularIdade/obj/Debug/net9.0/CalcularIdade.sourcelink.json
+>>>>>>> dc96f23 (Atualização exercicios)
+>>>>>>> bdd4ee4 (Resolvendo conflitos durante pull)

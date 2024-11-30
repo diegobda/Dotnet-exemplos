@@ -6,8 +6,17 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> bdd4ee4 (Resolvendo conflitos durante pull)
   <ItemGroup>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="7.1.0" />
   </ItemGroup>
 
+<<<<<<< HEAD
+=======
+>>>>>>> dc96f23 (Atualização exercicios)
+>>>>>>> bdd4ee4 (Resolvendo conflitos durante pull)
 </Project>

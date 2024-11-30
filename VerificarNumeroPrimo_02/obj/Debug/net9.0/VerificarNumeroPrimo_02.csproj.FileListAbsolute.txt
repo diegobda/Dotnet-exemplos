@@ -1,0 +1,15 @@
+/home/diego/devs/aulasDotnet/VerificarNumeroPrimo_02/bin/Debug/net9.0/VerificarNumeroPrimo_02
+/home/diego/devs/aulasDotnet/VerificarNumeroPrimo_02/bin/Debug/net9.0/VerificarNumeroPrimo_02.deps.json
+/home/diego/devs/aulasDotnet/VerificarNumeroPrimo_02/bin/Debug/net9.0/VerificarNumeroPrimo_02.runtimeconfig.json
+/home/diego/devs/aulasDotnet/VerificarNumeroPrimo_02/bin/Debug/net9.0/VerificarNumeroPrimo_02.dll
+/home/diego/devs/aulasDotnet/VerificarNumeroPrimo_02/bin/Debug/net9.0/VerificarNumeroPrimo_02.pdb
+/home/diego/devs/aulasDotnet/VerificarNumeroPrimo_02/obj/Debug/net9.0/VerificarNumeroPrimo_02.GeneratedMSBuildEditorConfig.editorconfig
+/home/diego/devs/aulasDotnet/VerificarNumeroPrimo_02/obj/Debug/net9.0/VerificarNumeroPrimo_02.AssemblyInfoInputs.cache
+/home/diego/devs/aulasDotnet/VerificarNumeroPrimo_02/obj/Debug/net9.0/VerificarNumeroPrimo_02.AssemblyInfo.cs
+/home/diego/devs/aulasDotnet/VerificarNumeroPrimo_02/obj/Debug/net9.0/VerificarNumeroPrimo_02.csproj.CoreCompileInputs.cache
+/home/diego/devs/aulasDotnet/VerificarNumeroPrimo_02/obj/Debug/net9.0/VerificarNumeroPrimo_02.sourcelink.json
+/home/diego/devs/aulasDotnet/VerificarNumeroPrimo_02/obj/Debug/net9.0/VerificarNumeroPrimo_02.dll
+/home/diego/devs/aulasDotnet/VerificarNumeroPrimo_02/obj/Debug/net9.0/refint/VerificarNumeroPrimo_02.dll
+/home/diego/devs/aulasDotnet/VerificarNumeroPrimo_02/obj/Debug/net9.0/VerificarNumeroPrimo_02.pdb
+/home/diego/devs/aulasDotnet/VerificarNumeroPrimo_02/obj/Debug/net9.0/VerificarNumeroPrimo_02.genruntimeconfig.cache
+/home/diego/devs/aulasDotnet/VerificarNumeroPrimo_02/obj/Debug/net9.0/ref/VerificarNumeroPrimo_02.dll

@@ -1,0 +1,15 @@
+/home/diego/devs/aulasDotnet/AlgoritimoDivisoresde5e9/bin/Debug/net9.0/AlgoritimoDivisoresde5e9
+/home/diego/devs/aulasDotnet/AlgoritimoDivisoresde5e9/bin/Debug/net9.0/AlgoritimoDivisoresde5e9.deps.json
+/home/diego/devs/aulasDotnet/AlgoritimoDivisoresde5e9/bin/Debug/net9.0/AlgoritimoDivisoresde5e9.runtimeconfig.json
+/home/diego/devs/aulasDotnet/AlgoritimoDivisoresde5e9/bin/Debug/net9.0/AlgoritimoDivisoresde5e9.dll
+/home/diego/devs/aulasDotnet/AlgoritimoDivisoresde5e9/bin/Debug/net9.0/AlgoritimoDivisoresde5e9.pdb
+/home/diego/devs/aulasDotnet/AlgoritimoDivisoresde5e9/obj/Debug/net9.0/AlgoritimoDivisoresde5e9.GeneratedMSBuildEditorConfig.editorconfig
+/home/diego/devs/aulasDotnet/AlgoritimoDivisoresde5e9/obj/Debug/net9.0/AlgoritimoDivisoresde5e9.AssemblyInfoInputs.cache
+/home/diego/devs/aulasDotnet/AlgoritimoDivisoresde5e9/obj/Debug/net9.0/AlgoritimoDivisoresde5e9.AssemblyInfo.cs
+/home/diego/devs/aulasDotnet/AlgoritimoDivisoresde5e9/obj/Debug/net9.0/AlgoritimoDivisoresde5e9.csproj.CoreCompileInputs.cache
+/home/diego/devs/aulasDotnet/AlgoritimoDivisoresde5e9/obj/Debug/net9.0/AlgoritimoDivisoresde5e9.sourcelink.json
+/home/diego/devs/aulasDotnet/AlgoritimoDivisoresde5e9/obj/Debug/net9.0/AlgoritimoDivisoresde5e9.dll
+/home/diego/devs/aulasDotnet/AlgoritimoDivisoresde5e9/obj/Debug/net9.0/refint/AlgoritimoDivisoresde5e9.dll
+/home/diego/devs/aulasDotnet/AlgoritimoDivisoresde5e9/obj/Debug/net9.0/AlgoritimoDivisoresde5e9.pdb
+/home/diego/devs/aulasDotnet/AlgoritimoDivisoresde5e9/obj/Debug/net9.0/AlgoritimoDivisoresde5e9.genruntimeconfig.cache
+/home/diego/devs/aulasDotnet/AlgoritimoDivisoresde5e9/obj/Debug/net9.0/ref/AlgoritimoDivisoresde5e9.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/diego/devs/aulasDotnet/CalcularIdade/CalcularIdade.csproj": {}
+    "/home/diego/devs/aulasDotnet/AlgoritimoDivisoresde5e9/AlgoritimoDivisoresde5e9.csproj": {}
   },
   "projects": {
-    "/home/diego/devs/aulasDotnet/CalcularIdade/CalcularIdade.csproj": {
+    "/home/diego/devs/aulasDotnet/AlgoritimoDivisoresde5e9/AlgoritimoDivisoresde5e9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/diego/devs/aulasDotnet/CalcularIdade/CalcularIdade.csproj",
-        "projectName": "CalcularIdade",
-        "projectPath": "/home/diego/devs/aulasDotnet/CalcularIdade/CalcularIdade.csproj",
+        "projectUniqueName": "/home/diego/devs/aulasDotnet/AlgoritimoDivisoresde5e9/AlgoritimoDivisoresde5e9.csproj",
+        "projectName": "AlgoritimoDivisoresde5e9",
+        "projectPath": "/home/diego/devs/aulasDotnet/AlgoritimoDivisoresde5e9/AlgoritimoDivisoresde5e9.csproj",
         "packagesPath": "/home/diego/.nuget/packages/",
-        "outputPath": "/home/diego/devs/aulasDotnet/CalcularIdade/obj/",
+        "outputPath": "/home/diego/devs/aulasDotnet/AlgoritimoDivisoresde5e9/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/diego/.nuget/NuGet/NuGet.Config"
@@ -44,21 +44,6 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
->>>>>>> bdd4ee4 (Resolvendo conflitos durante pull)
-          "dependencies": {
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[7.1.0, )"
-            }
-          },
-<<<<<<< HEAD
-=======
->>>>>>> dc96f23 (Atualização exercicios)
->>>>>>> bdd4ee4 (Resolvendo conflitos durante pull)
           "imports": [
             "net461",
             "net462",
