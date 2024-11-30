@@ -1,0 +1,14 @@
+/home/diego/devs/aulasDotnet/calculadora/TabuadaTemp/bin/Debug/net9.0/TabuadaTemp
+/home/diego/devs/aulasDotnet/calculadora/TabuadaTemp/bin/Debug/net9.0/TabuadaTemp.deps.json
+/home/diego/devs/aulasDotnet/calculadora/TabuadaTemp/bin/Debug/net9.0/TabuadaTemp.runtimeconfig.json
+/home/diego/devs/aulasDotnet/calculadora/TabuadaTemp/bin/Debug/net9.0/TabuadaTemp.dll
+/home/diego/devs/aulasDotnet/calculadora/TabuadaTemp/bin/Debug/net9.0/TabuadaTemp.pdb
+/home/diego/devs/aulasDotnet/calculadora/TabuadaTemp/obj/Debug/net9.0/TabuadaTemp.GeneratedMSBuildEditorConfig.editorconfig
+/home/diego/devs/aulasDotnet/calculadora/TabuadaTemp/obj/Debug/net9.0/TabuadaTemp.AssemblyInfoInputs.cache
+/home/diego/devs/aulasDotnet/calculadora/TabuadaTemp/obj/Debug/net9.0/TabuadaTemp.AssemblyInfo.cs
+/home/diego/devs/aulasDotnet/calculadora/TabuadaTemp/obj/Debug/net9.0/TabuadaTemp.csproj.CoreCompileInputs.cache
+/home/diego/devs/aulasDotnet/calculadora/TabuadaTemp/obj/Debug/net9.0/TabuadaTemp.dll
+/home/diego/devs/aulasDotnet/calculadora/TabuadaTemp/obj/Debug/net9.0/refint/TabuadaTemp.dll
+/home/diego/devs/aulasDotnet/calculadora/TabuadaTemp/obj/Debug/net9.0/TabuadaTemp.pdb
+/home/diego/devs/aulasDotnet/calculadora/TabuadaTemp/obj/Debug/net9.0/TabuadaTemp.genruntimeconfig.cache
+/home/diego/devs/aulasDotnet/calculadora/TabuadaTemp/obj/Debug/net9.0/ref/TabuadaTemp.dll

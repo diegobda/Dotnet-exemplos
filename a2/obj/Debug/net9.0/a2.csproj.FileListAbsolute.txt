@@ -1,0 +1,14 @@
+/home/diego/devs/aulasDotnet/a2/bin/Debug/net9.0/a2
+/home/diego/devs/aulasDotnet/a2/bin/Debug/net9.0/a2.deps.json
+/home/diego/devs/aulasDotnet/a2/bin/Debug/net9.0/a2.runtimeconfig.json
+/home/diego/devs/aulasDotnet/a2/bin/Debug/net9.0/a2.dll
+/home/diego/devs/aulasDotnet/a2/bin/Debug/net9.0/a2.pdb
+/home/diego/devs/aulasDotnet/a2/obj/Debug/net9.0/a2.GeneratedMSBuildEditorConfig.editorconfig
+/home/diego/devs/aulasDotnet/a2/obj/Debug/net9.0/a2.AssemblyInfoInputs.cache
+/home/diego/devs/aulasDotnet/a2/obj/Debug/net9.0/a2.AssemblyInfo.cs
+/home/diego/devs/aulasDotnet/a2/obj/Debug/net9.0/a2.csproj.CoreCompileInputs.cache
+/home/diego/devs/aulasDotnet/a2/obj/Debug/net9.0/a2.dll
+/home/diego/devs/aulasDotnet/a2/obj/Debug/net9.0/refint/a2.dll
+/home/diego/devs/aulasDotnet/a2/obj/Debug/net9.0/a2.pdb
+/home/diego/devs/aulasDotnet/a2/obj/Debug/net9.0/a2.genruntimeconfig.cache
+/home/diego/devs/aulasDotnet/a2/obj/Debug/net9.0/ref/a2.dll

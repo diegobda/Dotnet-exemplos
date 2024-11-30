@@ -1,0 +1,4 @@
+/home/diego/devs/aulasDotnet/c#/NamespacesAssembUsing01/obj/Debug/net9.0/NamespacesAssembUsing01.GeneratedMSBuildEditorConfig.editorconfig
+/home/diego/devs/aulasDotnet/c#/NamespacesAssembUsing01/obj/Debug/net9.0/NamespacesAssembUsing01.AssemblyInfoInputs.cache
+/home/diego/devs/aulasDotnet/c#/NamespacesAssembUsing01/obj/Debug/net9.0/NamespacesAssembUsing01.AssemblyInfo.cs
+/home/diego/devs/aulasDotnet/c#/NamespacesAssembUsing01/obj/Debug/net9.0/NamespacesAssembUsing01.csproj.CoreCompileInputs.cache

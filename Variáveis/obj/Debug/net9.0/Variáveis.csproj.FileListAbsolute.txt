@@ -1,0 +1,14 @@
+/home/diego/devs/aulasDotnet/Variáveis/bin/Debug/net9.0/Variáveis
+/home/diego/devs/aulasDotnet/Variáveis/bin/Debug/net9.0/Variáveis.deps.json
+/home/diego/devs/aulasDotnet/Variáveis/bin/Debug/net9.0/Variáveis.runtimeconfig.json
+/home/diego/devs/aulasDotnet/Variáveis/bin/Debug/net9.0/Variáveis.dll
+/home/diego/devs/aulasDotnet/Variáveis/bin/Debug/net9.0/Variáveis.pdb
+/home/diego/devs/aulasDotnet/Variáveis/obj/Debug/net9.0/Variáveis.GeneratedMSBuildEditorConfig.editorconfig
+/home/diego/devs/aulasDotnet/Variáveis/obj/Debug/net9.0/Variáveis.AssemblyInfoInputs.cache
+/home/diego/devs/aulasDotnet/Variáveis/obj/Debug/net9.0/Variáveis.AssemblyInfo.cs
+/home/diego/devs/aulasDotnet/Variáveis/obj/Debug/net9.0/Variáveis.csproj.CoreCompileInputs.cache
+/home/diego/devs/aulasDotnet/Variáveis/obj/Debug/net9.0/Variáveis.dll
+/home/diego/devs/aulasDotnet/Variáveis/obj/Debug/net9.0/refint/Variáveis.dll
+/home/diego/devs/aulasDotnet/Variáveis/obj/Debug/net9.0/Variáveis.pdb
+/home/diego/devs/aulasDotnet/Variáveis/obj/Debug/net9.0/Variáveis.genruntimeconfig.cache
+/home/diego/devs/aulasDotnet/Variáveis/obj/Debug/net9.0/ref/Variáveis.dll

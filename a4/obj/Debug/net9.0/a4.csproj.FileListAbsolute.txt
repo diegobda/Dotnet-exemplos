@@ -1,0 +1,14 @@
+/home/diego/devs/aulasDotnet/a4/bin/Debug/net9.0/a4
+/home/diego/devs/aulasDotnet/a4/bin/Debug/net9.0/a4.deps.json
+/home/diego/devs/aulasDotnet/a4/bin/Debug/net9.0/a4.runtimeconfig.json
+/home/diego/devs/aulasDotnet/a4/bin/Debug/net9.0/a4.dll
+/home/diego/devs/aulasDotnet/a4/bin/Debug/net9.0/a4.pdb
+/home/diego/devs/aulasDotnet/a4/obj/Debug/net9.0/a4.GeneratedMSBuildEditorConfig.editorconfig
+/home/diego/devs/aulasDotnet/a4/obj/Debug/net9.0/a4.AssemblyInfoInputs.cache
+/home/diego/devs/aulasDotnet/a4/obj/Debug/net9.0/a4.AssemblyInfo.cs
+/home/diego/devs/aulasDotnet/a4/obj/Debug/net9.0/a4.csproj.CoreCompileInputs.cache
+/home/diego/devs/aulasDotnet/a4/obj/Debug/net9.0/a4.dll
+/home/diego/devs/aulasDotnet/a4/obj/Debug/net9.0/refint/a4.dll
+/home/diego/devs/aulasDotnet/a4/obj/Debug/net9.0/a4.pdb
+/home/diego/devs/aulasDotnet/a4/obj/Debug/net9.0/a4.genruntimeconfig.cache
+/home/diego/devs/aulasDotnet/a4/obj/Debug/net9.0/ref/a4.dll

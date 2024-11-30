@@ -1,0 +1,14 @@
+/home/diego/devs/aulasDotnet/Listas/obj/Debug/net9.0/Listas.GeneratedMSBuildEditorConfig.editorconfig
+/home/diego/devs/aulasDotnet/Listas/obj/Debug/net9.0/Listas.AssemblyInfoInputs.cache
+/home/diego/devs/aulasDotnet/Listas/obj/Debug/net9.0/Listas.AssemblyInfo.cs
+/home/diego/devs/aulasDotnet/Listas/obj/Debug/net9.0/Listas.csproj.CoreCompileInputs.cache
+/home/diego/devs/aulasDotnet/Listas/bin/Debug/net9.0/Listas
+/home/diego/devs/aulasDotnet/Listas/bin/Debug/net9.0/Listas.deps.json
+/home/diego/devs/aulasDotnet/Listas/bin/Debug/net9.0/Listas.runtimeconfig.json
+/home/diego/devs/aulasDotnet/Listas/bin/Debug/net9.0/Listas.dll
+/home/diego/devs/aulasDotnet/Listas/bin/Debug/net9.0/Listas.pdb
+/home/diego/devs/aulasDotnet/Listas/obj/Debug/net9.0/Listas.dll
+/home/diego/devs/aulasDotnet/Listas/obj/Debug/net9.0/refint/Listas.dll
+/home/diego/devs/aulasDotnet/Listas/obj/Debug/net9.0/Listas.pdb
+/home/diego/devs/aulasDotnet/Listas/obj/Debug/net9.0/Listas.genruntimeconfig.cache
+/home/diego/devs/aulasDotnet/Listas/obj/Debug/net9.0/ref/Listas.dll

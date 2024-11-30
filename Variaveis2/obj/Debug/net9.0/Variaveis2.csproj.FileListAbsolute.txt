@@ -1,0 +1,14 @@
+/home/diego/devs/aulasDotnet/Variaveis2/bin/Debug/net9.0/Variaveis2
+/home/diego/devs/aulasDotnet/Variaveis2/bin/Debug/net9.0/Variaveis2.deps.json
+/home/diego/devs/aulasDotnet/Variaveis2/bin/Debug/net9.0/Variaveis2.runtimeconfig.json
+/home/diego/devs/aulasDotnet/Variaveis2/bin/Debug/net9.0/Variaveis2.dll
+/home/diego/devs/aulasDotnet/Variaveis2/bin/Debug/net9.0/Variaveis2.pdb
+/home/diego/devs/aulasDotnet/Variaveis2/obj/Debug/net9.0/Variaveis2.GeneratedMSBuildEditorConfig.editorconfig
+/home/diego/devs/aulasDotnet/Variaveis2/obj/Debug/net9.0/Variaveis2.AssemblyInfoInputs.cache
+/home/diego/devs/aulasDotnet/Variaveis2/obj/Debug/net9.0/Variaveis2.AssemblyInfo.cs
+/home/diego/devs/aulasDotnet/Variaveis2/obj/Debug/net9.0/Variaveis2.csproj.CoreCompileInputs.cache
+/home/diego/devs/aulasDotnet/Variaveis2/obj/Debug/net9.0/Variaveis2.dll
+/home/diego/devs/aulasDotnet/Variaveis2/obj/Debug/net9.0/refint/Variaveis2.dll
+/home/diego/devs/aulasDotnet/Variaveis2/obj/Debug/net9.0/Variaveis2.pdb
+/home/diego/devs/aulasDotnet/Variaveis2/obj/Debug/net9.0/Variaveis2.genruntimeconfig.cache
+/home/diego/devs/aulasDotnet/Variaveis2/obj/Debug/net9.0/ref/Variaveis2.dll

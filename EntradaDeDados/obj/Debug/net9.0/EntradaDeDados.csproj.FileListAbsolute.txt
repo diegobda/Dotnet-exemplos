@@ -1,0 +1,14 @@
+/home/diego/devs/aulasDotnet/EntradaDeDados/bin/Debug/net9.0/EntradaDeDados
+/home/diego/devs/aulasDotnet/EntradaDeDados/bin/Debug/net9.0/EntradaDeDados.deps.json
+/home/diego/devs/aulasDotnet/EntradaDeDados/bin/Debug/net9.0/EntradaDeDados.runtimeconfig.json
+/home/diego/devs/aulasDotnet/EntradaDeDados/bin/Debug/net9.0/EntradaDeDados.dll
+/home/diego/devs/aulasDotnet/EntradaDeDados/bin/Debug/net9.0/EntradaDeDados.pdb
+/home/diego/devs/aulasDotnet/EntradaDeDados/obj/Debug/net9.0/EntradaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+/home/diego/devs/aulasDotnet/EntradaDeDados/obj/Debug/net9.0/EntradaDeDados.AssemblyInfoInputs.cache
+/home/diego/devs/aulasDotnet/EntradaDeDados/obj/Debug/net9.0/EntradaDeDados.AssemblyInfo.cs
+/home/diego/devs/aulasDotnet/EntradaDeDados/obj/Debug/net9.0/EntradaDeDados.csproj.CoreCompileInputs.cache
+/home/diego/devs/aulasDotnet/EntradaDeDados/obj/Debug/net9.0/EntradaDeDados.dll
+/home/diego/devs/aulasDotnet/EntradaDeDados/obj/Debug/net9.0/refint/EntradaDeDados.dll
+/home/diego/devs/aulasDotnet/EntradaDeDados/obj/Debug/net9.0/EntradaDeDados.pdb
+/home/diego/devs/aulasDotnet/EntradaDeDados/obj/Debug/net9.0/EntradaDeDados.genruntimeconfig.cache
+/home/diego/devs/aulasDotnet/EntradaDeDados/obj/Debug/net9.0/ref/EntradaDeDados.dll

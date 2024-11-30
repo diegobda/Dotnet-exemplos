@@ -1,0 +1,14 @@
+/home/diego/devs/aulasDotnet/a3/obj/Debug/net9.0/a3.GeneratedMSBuildEditorConfig.editorconfig
+/home/diego/devs/aulasDotnet/a3/obj/Debug/net9.0/a3.AssemblyInfoInputs.cache
+/home/diego/devs/aulasDotnet/a3/obj/Debug/net9.0/a3.AssemblyInfo.cs
+/home/diego/devs/aulasDotnet/a3/obj/Debug/net9.0/a3.csproj.CoreCompileInputs.cache
+/home/diego/devs/aulasDotnet/a3/bin/Debug/net9.0/a3
+/home/diego/devs/aulasDotnet/a3/bin/Debug/net9.0/a3.deps.json
+/home/diego/devs/aulasDotnet/a3/bin/Debug/net9.0/a3.runtimeconfig.json
+/home/diego/devs/aulasDotnet/a3/bin/Debug/net9.0/a3.dll
+/home/diego/devs/aulasDotnet/a3/bin/Debug/net9.0/a3.pdb
+/home/diego/devs/aulasDotnet/a3/obj/Debug/net9.0/a3.dll
+/home/diego/devs/aulasDotnet/a3/obj/Debug/net9.0/refint/a3.dll
+/home/diego/devs/aulasDotnet/a3/obj/Debug/net9.0/a3.pdb
+/home/diego/devs/aulasDotnet/a3/obj/Debug/net9.0/a3.genruntimeconfig.cache
+/home/diego/devs/aulasDotnet/a3/obj/Debug/net9.0/ref/a3.dll

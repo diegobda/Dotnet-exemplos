@@ -1,0 +1,14 @@
+/home/diego/devs/aulasDotnet/Logicas_01/obj/Debug/net9.0/Logicas_01.GeneratedMSBuildEditorConfig.editorconfig
+/home/diego/devs/aulasDotnet/Logicas_01/obj/Debug/net9.0/Logicas_01.AssemblyInfoInputs.cache
+/home/diego/devs/aulasDotnet/Logicas_01/obj/Debug/net9.0/Logicas_01.AssemblyInfo.cs
+/home/diego/devs/aulasDotnet/Logicas_01/obj/Debug/net9.0/Logicas_01.csproj.CoreCompileInputs.cache
+/home/diego/devs/aulasDotnet/Logicas_01/bin/Debug/net9.0/Logicas_01
+/home/diego/devs/aulasDotnet/Logicas_01/bin/Debug/net9.0/Logicas_01.deps.json
+/home/diego/devs/aulasDotnet/Logicas_01/bin/Debug/net9.0/Logicas_01.runtimeconfig.json
+/home/diego/devs/aulasDotnet/Logicas_01/bin/Debug/net9.0/Logicas_01.dll
+/home/diego/devs/aulasDotnet/Logicas_01/bin/Debug/net9.0/Logicas_01.pdb
+/home/diego/devs/aulasDotnet/Logicas_01/obj/Debug/net9.0/Logicas_01.dll
+/home/diego/devs/aulasDotnet/Logicas_01/obj/Debug/net9.0/refint/Logicas_01.dll
+/home/diego/devs/aulasDotnet/Logicas_01/obj/Debug/net9.0/Logicas_01.pdb
+/home/diego/devs/aulasDotnet/Logicas_01/obj/Debug/net9.0/Logicas_01.genruntimeconfig.cache
+/home/diego/devs/aulasDotnet/Logicas_01/obj/Debug/net9.0/ref/Logicas_01.dll

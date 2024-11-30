@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "TabuadaTemp/1.0.0": {
+        "runtime": {
+          "TabuadaTemp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TabuadaTemp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

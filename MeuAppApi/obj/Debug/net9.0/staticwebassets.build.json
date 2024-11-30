@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "oLILw2tvUngFqaRvDtbwOVtHv1WVMR2FIC+KVDXm/7s=",
+  "Source": "MeuAppApi",
+  "BasePath": "_content/MeuAppApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
