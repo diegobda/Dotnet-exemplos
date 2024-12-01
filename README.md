@@ -64,8 +64,11 @@ Bem-vindo ao repositório **Dotnet Exemplos**! Este repositório contém projeto
 
 
 ### Navegue até o diretório do projeto:
+
    cd NomeDaPasta
 
 ### Compile e execute o projeto:
+<img src="https://github.com/diegobda/Dotnet-exemplos/blob/main/Screenshot%20from%202024-12-01%2013-13-38.png" alt="imagem exmeplo">
+
    dotnet build
    dotnet run
