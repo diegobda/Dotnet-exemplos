@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Verificar_Se_número_Par_ou_Ímpar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3cd065739d6850610d73513d158797fc11d04713")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88d2ad6b96230b474e116629ef06cfca4f49df78")]
 [assembly: System.Reflection.AssemblyProductAttribute("Verificar_Se_número_Par_ou_Ímpar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Verificar_Se_número_Par_ou_Ímpar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
