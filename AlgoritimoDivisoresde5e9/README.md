@@ -26,4 +26,4 @@ O **Algoritmo Divisor** é um programa simples em C# que identifica e exibe todo
 
 1. **Clone o repositório:**
    ```bash
-   git clone [URL_DO_REPOSITORIO]
+   git clone https://github.com/diegobda/Dotnet-exemplos/tree/main/AlgoritimoDivisoresde5e9
