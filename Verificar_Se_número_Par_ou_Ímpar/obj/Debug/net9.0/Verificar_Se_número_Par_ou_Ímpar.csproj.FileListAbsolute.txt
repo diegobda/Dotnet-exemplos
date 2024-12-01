@@ -1,0 +1,15 @@
+/home/diego/devs/aulasDotnet/Verificar_Se_número_Par_ou_Ímpar/bin/Debug/net9.0/Verificar_Se_número_Par_ou_Ímpar
+/home/diego/devs/aulasDotnet/Verificar_Se_número_Par_ou_Ímpar/bin/Debug/net9.0/Verificar_Se_número_Par_ou_Ímpar.deps.json
+/home/diego/devs/aulasDotnet/Verificar_Se_número_Par_ou_Ímpar/bin/Debug/net9.0/Verificar_Se_número_Par_ou_Ímpar.runtimeconfig.json
+/home/diego/devs/aulasDotnet/Verificar_Se_número_Par_ou_Ímpar/bin/Debug/net9.0/Verificar_Se_número_Par_ou_Ímpar.dll
+/home/diego/devs/aulasDotnet/Verificar_Se_número_Par_ou_Ímpar/bin/Debug/net9.0/Verificar_Se_número_Par_ou_Ímpar.pdb
+/home/diego/devs/aulasDotnet/Verificar_Se_número_Par_ou_Ímpar/obj/Debug/net9.0/Verificar_Se_número_Par_ou_Ímpar.GeneratedMSBuildEditorConfig.editorconfig
+/home/diego/devs/aulasDotnet/Verificar_Se_número_Par_ou_Ímpar/obj/Debug/net9.0/Verificar_Se_número_Par_ou_Ímpar.AssemblyInfoInputs.cache
+/home/diego/devs/aulasDotnet/Verificar_Se_número_Par_ou_Ímpar/obj/Debug/net9.0/Verificar_Se_número_Par_ou_Ímpar.AssemblyInfo.cs
+/home/diego/devs/aulasDotnet/Verificar_Se_número_Par_ou_Ímpar/obj/Debug/net9.0/Verificar_Se_número_Par_ou_Ímpar.csproj.CoreCompileInputs.cache
+/home/diego/devs/aulasDotnet/Verificar_Se_número_Par_ou_Ímpar/obj/Debug/net9.0/Verificar_Se_número_Par_ou_Ímpar.sourcelink.json
+/home/diego/devs/aulasDotnet/Verificar_Se_número_Par_ou_Ímpar/obj/Debug/net9.0/Verificar_Se_número_Par_ou_Ímpar.dll
+/home/diego/devs/aulasDotnet/Verificar_Se_número_Par_ou_Ímpar/obj/Debug/net9.0/refint/Verificar_Se_número_Par_ou_Ímpar.dll
+/home/diego/devs/aulasDotnet/Verificar_Se_número_Par_ou_Ímpar/obj/Debug/net9.0/Verificar_Se_número_Par_ou_Ímpar.pdb
+/home/diego/devs/aulasDotnet/Verificar_Se_número_Par_ou_Ímpar/obj/Debug/net9.0/Verificar_Se_número_Par_ou_Ímpar.genruntimeconfig.cache
+/home/diego/devs/aulasDotnet/Verificar_Se_número_Par_ou_Ímpar/obj/Debug/net9.0/ref/Verificar_Se_número_Par_ou_Ímpar.dll
