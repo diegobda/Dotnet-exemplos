@@ -67,6 +67,8 @@ Bem-vindo ao repositório **Dotnet Exemplos**! Este repositório contém projeto
 ```bash
 
    cd NomeDaPasta
+   ```
+   
 
 ### Compile e execute o projeto:
 <img src="https://github.com/diegobda/Dotnet-exemplos/blob/main/Screenshot%20from%202024-12-01%2013-13-38.png" alt="imagem exmeplo">
@@ -75,3 +77,4 @@ Bem-vindo ao repositório **Dotnet Exemplos**! Este repositório contém projeto
 
    dotnet build
    dotnet run
+```
