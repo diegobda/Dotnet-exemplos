@@ -63,12 +63,9 @@ Bem-vindo ao repositório **Dotnet Exemplos**! Este repositório contém projeto
    git clone https://github.com/diegobda/Dotnet-exemplos.git
 
 
-# Navegue até o diretório do projeto:
+### Navegue até o diretório do projeto:
+   cd NomeDaPasta
 
-## cd NomeDaPasta
-
-
-# Compile e execute o projeto:
-
-## dotnet build
-## dotnet run
+### Compile e execute o projeto:
+   dotnet build
+   dotnet run
